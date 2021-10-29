@@ -2,8 +2,8 @@
 
 ## General Requirements
 
-  * prompt the user to ask whether he wants to ask a question and return a randomly selected answer.
-  * allow the user to continue to ask questions by implementing a loop that ask the user whether he wants to ask another question.
+  * prompt the user to ask whether he wants to ask a question and return a randomly selected answer. [MDN Prompt Reference](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
+  * allow the user to continue to ask questions by implementing a loop that ask the user whether he wants to ask another question. 
 
 First, get your program working with a single question/answer. Then add the ability to ask repeated questions until the user decides he no longer wants to plan.
 
